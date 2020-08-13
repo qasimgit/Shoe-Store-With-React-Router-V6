@@ -1,0 +1,23 @@
+*{
+    margin-top: 10px;
+}
+
+.navbar{
+    background-color: lightcyan;
+    color: black;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.link{
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+
+.link:hover{
+    color: blue;
+}
